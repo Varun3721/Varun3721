@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Varun3721
+- 👋**Computer science Engineer.** 
+-  **I believe in communication
+   Give Time to the things that you wanna Learn.**
 - 👀 I’m interested in solving problems 
-- 🌱 I’m currently learning ...
+- 🌱 ***Looking for a window of Opportunity***
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me via on varunkulshresth@gmail,com
 
 <!---
 Varun3721/Varun3721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
