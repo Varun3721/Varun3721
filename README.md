@@ -1,5 +1,5 @@
 - 👋**Computer science Engineer.** 
--  **I believe in communication
+-  **I believe in communication.
    Give Time to the things that you wanna Learn.**
 - 👀 I’m interested in solving problems 
 - 🌱 ***Looking for a window of Opportunity***
