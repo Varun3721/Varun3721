@@ -1,4 +1,5 @@
 - 👋**Computer science Engineer.** 
+- **Python For Data Science,Data Analyst,C++(DSA).**
 -  **I believe in communication.
    Give Time to the things that you wanna Learn.**
 - 👀 I’m interested in solving problems 
