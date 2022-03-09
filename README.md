@@ -7,7 +7,7 @@
    Give Time to the things that you wanna Learn.**
 - 👀 I’m interested in solving problems 
 - 🌱 ***Looking for a window of Opportunity***
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on blockchain projects.
 - 📫 reach me via on varunkulshresth@gmail,com
 
 <!---
