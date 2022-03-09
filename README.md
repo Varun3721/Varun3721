@@ -1,4 +1,6 @@
 - 👋**Computer science Engineer.** 
+-  **Loves to make analogy.**
+-  **#Blockchain-Etherium:-)novus Internet**
 - **Data Science with python,Data Analyst.**
 - **C++(DSA).**
 -  **I believe in communication.
