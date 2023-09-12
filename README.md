@@ -1,14 +1,11 @@
 - 👋**Computer science Engineer.** 
 -  **Loves to make analogy.**
--  **#Blockchain-Etherium:-)novus Internet**
-- **Data Science with python,Data Analyst.**
-- **C++(DSA).**
+- **Data Science with python**
 -  **I believe in communication.
    Give Time to the things that you wanna Learn.**
 - 👀 I’m interested in solving problems 
-- 🌱 ***Looking for a window of Opportunity***
-- 💞️ I’m looking to collaborate on data science and Blockchain projects.
-- 📫 reach me via on varunkulshresth@gmail,com
+- 💞️ I’m looking to collaborate on data science.
+- 📫 reach me via on varunkulshrestha12345@gmail.com
 
 <!---
 Varun3721/Varun3721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
