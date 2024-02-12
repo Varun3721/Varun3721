@@ -1,6 +1,5 @@
 - 👋**Computer science Engineer.** 
--  **Loves to make analogy.**
-- **Data Science with python**
+-  **Loves to Play with data and make meaning full prediction out of it.**
 -  **I believe in communication.
    Give Time to the things that you wanna Learn.**
 - 👀 I’m interested in solving problems 
